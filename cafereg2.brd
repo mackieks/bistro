@@ -3489,21 +3489,21 @@ design rules under a new name.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="C1" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="2.2uF" x="21.429159375" y="4.273178125" smashed="yes"/>
-<element name="C10" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="25.685296875" y="13.310565625" smashed="yes" rot="R135"/>
-<element name="C11" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="23.403125" y="10.851115625" smashed="yes" rot="R135"/>
-<element name="C12" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="15.1" y="16.5" smashed="yes" rot="MR270">
+<element name="C6" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="2.2uF" x="21.429159375" y="4.273178125" smashed="yes"/>
+<element name="C1" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="25.685296875" y="13.310565625" smashed="yes" rot="R135"/>
+<element name="C4" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="23.403125" y="10.851115625" smashed="yes" rot="R135"/>
+<element name="C9" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="15.1" y="16.5" smashed="yes" rot="MR270">
 <attribute name="VALUE" x="17.005" y="17.135" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C13" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="13.9" y="16.5" smashed="yes" rot="MR270">
+<element name="C10" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="13.9" y="16.5" smashed="yes" rot="MR270">
 <attribute name="VALUE" x="15.805" y="17.135" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C2" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="25.737" y="9.183" smashed="yes" rot="R90"/>
-<element name="C3" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="13.167" y="14.235" smashed="yes" rot="MR0">
+<element name="C7" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="25.737" y="9.183" smashed="yes" rot="R90"/>
+<element name="C8" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="13.167" y="14.235" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="13.802" y="12.33" size="1.27" layer="28" rot="MR0"/>
 </element>
-<element name="C4" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="1uF" x="23.07" y="3.849" smashed="yes" rot="R270"/>
-<element name="C5" library="SamacSys_Parts" package="CAPPM3528X210N" value="F930J107KBA" x="14.591" y="16.549" smashed="yes" rot="R270">
+<element name="C5" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="1uF" x="23.07" y="3.849" smashed="yes" rot="R270"/>
+<element name="C17" library="SamacSys_Parts" package="CAPPM3528X210N" value="F930J107KBA" x="14.591" y="16.549" smashed="yes" rot="R270">
 <attribute name="DESCRIPTION" value="AVX 100uF 6.3 V Tantalum Capacitor Electrolytic Solid F93 Series" x="-9.539" y="-2.501" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="HEIGHT" value="2.1mm" x="-9.539" y="-2.501" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="AVX" x="-9.539" y="-2.501" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3511,7 +3511,7 @@ design rules under a new name.</description>
 <attribute name="MOUSER_PART_NUMBER" value="647-F930J107KBA" x="-9.539" y="-2.501" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/AVX/F930J107KBA/?qs=a5AWWN0nKwZJCzViS%2FKXGw%3D%3D" x="-9.539" y="-2.501" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="C6" library="SamacSys_Parts" package="CAPPM3528X210N" value="F930J107KBA" x="18.02" y="16.549" smashed="yes" rot="R270">
+<element name="C18" library="SamacSys_Parts" package="CAPPM3528X210N" value="F930J107KBA" x="18.02" y="16.549" smashed="yes" rot="R270">
 <attribute name="DESCRIPTION" value="AVX 100uF 6.3 V Tantalum Capacitor Electrolytic Solid F93 Series" x="-6.11" y="-15.201" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="HEIGHT" value="2.1mm" x="-6.11" y="-15.201" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="AVX" x="-6.11" y="-15.201" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3519,7 +3519,7 @@ design rules under a new name.</description>
 <attribute name="MOUSER_PART_NUMBER" value="647-F930J107KBA" x="-6.11" y="-15.201" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/AVX/F930J107KBA/?qs=a5AWWN0nKwZJCzViS%2FKXGw%3D%3D" x="-6.11" y="-15.201" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="C7" library="SamacSys_Parts" package="CAPPM3528X210N" value="F930J107KBA" x="21.449" y="16.549" smashed="yes" rot="R270">
+<element name="C19" library="SamacSys_Parts" package="CAPPM3528X210N" value="F930J107KBA" x="21.449" y="16.549" smashed="yes" rot="R270">
 <attribute name="DESCRIPTION" value="AVX 100uF 6.3 V Tantalum Capacitor Electrolytic Solid F93 Series" x="-6.491" y="-2.501" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="HEIGHT" value="2.1mm" x="-6.491" y="-2.501" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="AVX" x="-6.491" y="-2.501" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3527,9 +3527,9 @@ design rules under a new name.</description>
 <attribute name="MOUSER_PART_NUMBER" value="647-F930J107KBA" x="-6.491" y="-2.501" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/AVX/F930J107KBA/?qs=a5AWWN0nKwZJCzViS%2FKXGw%3D%3D" x="-6.491" y="-2.501" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="C8" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="24.06885" y="11.69411875" smashed="yes" rot="R135"/>
-<element name="C9" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="24.877071875" y="12.50234375" smashed="yes" rot="R135"/>
-<element name="IC1" library="personal" library_urn="urn:adsk.eagle:library:650876" package="SIC431AEDT1GE3" value="SIC431AED-T1-GE3" x="23.451" y="8.548" smashed="yes" rot="R270">
+<element name="C3" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="24.06885" y="11.69411875" smashed="yes" rot="R135"/>
+<element name="C2" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="24.877071875" y="12.50234375" smashed="yes" rot="R135"/>
+<element name="IC1" library="personal" library_urn="urn:adsk.eagle:library:650876" package="SIC431AEDT1GE3" value="SiC431CED-T1-GE3" x="23.451" y="8.548" smashed="yes" rot="R270">
 <attribute name="DESCRIPTION" value="Switching Voltage Regulators 4.5-24V 24A 50uA microBUCK MLP44-24" x="4.401" y="-14.312" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="HEIGHT" value="mm" x="4.401" y="-14.312" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="Vishay" x="4.401" y="-14.312" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3538,11 +3538,11 @@ design rules under a new name.</description>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Vishay-Siliconix/SIC431AED-T1-GE3?qs=chTDxNqvsynTWHIPRmLWxw%3D%3D" x="4.401" y="-14.312" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="R1" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="100k" x="26.7" y="9.2" smashed="yes" rot="R270"/>
-<element name="R2" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="6.67k" x="26.5" y="4.2" smashed="yes" rot="R90"/>
-<element name="R3" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="10K" x="24.9" y="3.7" smashed="yes"/>
-<element name="R7" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="510k" x="26.4" y="7.4" smashed="yes" rot="R180"/>
-<element name="R8" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="510k" x="26.4" y="6.5" smashed="yes" rot="R180"/>
-<element name="L2" library="SamacSys_Parts" package="INDPM8680X400N" value="MPXV1D0840L1R0" x="14.7" y="7.3" smashed="yes" rot="R180">
+<element name="R4" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="6.67k" x="26.5" y="4.2" smashed="yes" rot="R90"/>
+<element name="R5" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="10K" x="24.9" y="3.7" smashed="yes"/>
+<element name="R2" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="510k" x="26.4" y="7.4" smashed="yes" rot="R180"/>
+<element name="R3" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="510k" x="26.4" y="6.5" smashed="yes" rot="R180"/>
+<element name="L1" library="SamacSys_Parts" package="INDPM8680X400N" value="MPXV1D0840L1R0" x="14.7" y="7.3" smashed="yes" rot="R180">
 <attribute name="DESCRIPTION" value="KEMET, MPXV, Power, 1 uH, 20%, 155C, -55C, 0840(3431), 20.8 A, 4.2 mOhms, 40 MHz, 1000, 8.65mm, 8.9mm, 8mm, 8.2mm, 4mm, 4mm" x="14.7" y="7.3" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="HEIGHT" value="4mm" x="14.7" y="7.3" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="KEMET" x="14.7" y="7.3" size="1.778" layer="27" rot="R180" display="off"/>
@@ -3550,36 +3550,36 @@ design rules under a new name.</description>
 <attribute name="MOUSER_PART_NUMBER" value="" x="14.7" y="7.3" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="" x="14.7" y="7.3" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="C20" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="16.3" y="16.5" smashed="yes" rot="MR270">
+<element name="C11" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="16.3" y="16.5" smashed="yes" rot="MR270">
 <attribute name="VALUE" x="18.205" y="17.135" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C27" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="17.5" y="16.5" smashed="yes" rot="MR270">
+<element name="C12" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="17.5" y="16.5" smashed="yes" rot="MR270">
 <attribute name="VALUE" x="19.405" y="17.135" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C28" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="18.7" y="16.5" smashed="yes" rot="MR270">
+<element name="C13" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="18.7" y="16.5" smashed="yes" rot="MR270">
 <attribute name="VALUE" x="20.605" y="17.135" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C29" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="19.9" y="16.5" smashed="yes" rot="MR270">
+<element name="C14" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="19.9" y="16.5" smashed="yes" rot="MR270">
 <attribute name="VALUE" x="21.805" y="17.135" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C30" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="21.1" y="16.5" smashed="yes" rot="MR270">
+<element name="C15" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="21.1" y="16.5" smashed="yes" rot="MR270">
 <attribute name="VALUE" x="23.005" y="17.135" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C37" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="2.2uF" x="2.7522" y="4.2146" smashed="yes"/>
-<element name="C46" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="7.015296875" y="13.320565625" smashed="yes" rot="R135"/>
-<element name="C47" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="4.733125" y="10.861115625" smashed="yes" rot="R135"/>
-<element name="C48" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="-3.57" y="16.51" smashed="yes" rot="MR270">
+<element name="C25" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="2.2uF" x="2.7522" y="4.2146" smashed="yes"/>
+<element name="C20" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="7.015296875" y="13.320565625" smashed="yes" rot="R135"/>
+<element name="C23" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="4.733125" y="10.861115625" smashed="yes" rot="R135"/>
+<element name="C28" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="-3.57" y="16.51" smashed="yes" rot="MR270">
 <attribute name="VALUE" x="-1.665" y="17.145" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C49" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="-4.77" y="16.51" smashed="yes" rot="MR270">
+<element name="C29" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="-4.77" y="16.51" smashed="yes" rot="MR270">
 <attribute name="VALUE" x="-2.865" y="17.145" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C38" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="7.067" y="9.193" smashed="yes" rot="R90"/>
-<element name="C39" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="-5.503" y="14.245" smashed="yes" rot="MR0">
+<element name="C26" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="7.067" y="9.193" smashed="yes" rot="R90"/>
+<element name="C27" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="-5.503" y="14.245" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="-4.868" y="12.34" size="1.27" layer="28" rot="MR0"/>
 </element>
-<element name="C40" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="1uF" x="4.4" y="3.859" smashed="yes" rot="R270"/>
-<element name="C41" library="SamacSys_Parts" package="CAPPM3528X210N" value="F930J107KBA" x="-4.079" y="16.559" smashed="yes" rot="R270">
+<element name="C24" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="1uF" x="4.4" y="3.859" smashed="yes" rot="R270"/>
+<element name="C36" library="SamacSys_Parts" package="CAPPM3528X210N" value="F930J107KBA" x="-4.079" y="16.559" smashed="yes" rot="R270">
 <attribute name="DESCRIPTION" value="AVX 100uF 6.3 V Tantalum Capacitor Electrolytic Solid F93 Series" x="-28.209" y="-2.491" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="HEIGHT" value="2.1mm" x="-28.209" y="-2.491" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="AVX" x="-28.209" y="-2.491" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3587,7 +3587,7 @@ design rules under a new name.</description>
 <attribute name="MOUSER_PART_NUMBER" value="647-F930J107KBA" x="-28.209" y="-2.491" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/AVX/F930J107KBA/?qs=a5AWWN0nKwZJCzViS%2FKXGw%3D%3D" x="-28.209" y="-2.491" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="C42" library="SamacSys_Parts" package="CAPPM3528X210N" value="F930J107KBA" x="-0.65" y="16.559" smashed="yes" rot="R270">
+<element name="C37" library="SamacSys_Parts" package="CAPPM3528X210N" value="F930J107KBA" x="-0.65" y="16.559" smashed="yes" rot="R270">
 <attribute name="DESCRIPTION" value="AVX 100uF 6.3 V Tantalum Capacitor Electrolytic Solid F93 Series" x="-24.78" y="-15.191" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="HEIGHT" value="2.1mm" x="-24.78" y="-15.191" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="AVX" x="-24.78" y="-15.191" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3595,7 +3595,7 @@ design rules under a new name.</description>
 <attribute name="MOUSER_PART_NUMBER" value="647-F930J107KBA" x="-24.78" y="-15.191" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/AVX/F930J107KBA/?qs=a5AWWN0nKwZJCzViS%2FKXGw%3D%3D" x="-24.78" y="-15.191" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="C43" library="SamacSys_Parts" package="CAPPM3528X210N" value="F930J107KBA" x="2.779" y="16.559" smashed="yes" rot="R270">
+<element name="C38" library="SamacSys_Parts" package="CAPPM3528X210N" value="F930J107KBA" x="2.779" y="16.559" smashed="yes" rot="R270">
 <attribute name="DESCRIPTION" value="AVX 100uF 6.3 V Tantalum Capacitor Electrolytic Solid F93 Series" x="-25.161" y="-2.491" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="HEIGHT" value="2.1mm" x="-25.161" y="-2.491" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="AVX" x="-25.161" y="-2.491" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3603,9 +3603,9 @@ design rules under a new name.</description>
 <attribute name="MOUSER_PART_NUMBER" value="647-F930J107KBA" x="-25.161" y="-2.491" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/AVX/F930J107KBA/?qs=a5AWWN0nKwZJCzViS%2FKXGw%3D%3D" x="-25.161" y="-2.491" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="C44" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="5.39885" y="11.70411875" smashed="yes" rot="R135"/>
-<element name="C45" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="6.207071875" y="12.51234375" smashed="yes" rot="R135"/>
-<element name="IC3" library="personal" library_urn="urn:adsk.eagle:library:650876" package="SIC431AEDT1GE3" value="SIC431AED-T1-GE3" x="4.781" y="8.558" smashed="yes" rot="R270">
+<element name="C22" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="5.39885" y="11.70411875" smashed="yes" rot="R135"/>
+<element name="C21" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="6.207071875" y="12.51234375" smashed="yes" rot="R135"/>
+<element name="IC2" library="personal" library_urn="urn:adsk.eagle:library:650876" package="SIC431AEDT1GE3" value="SiC431CED-T1-GE3" x="4.781" y="8.558" smashed="yes" rot="R270">
 <attribute name="DESCRIPTION" value="Switching Voltage Regulators 4.5-24V 24A 50uA microBUCK MLP44-24" x="-14.269" y="-14.302" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="HEIGHT" value="mm" x="-14.269" y="-14.302" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="Vishay" x="-14.269" y="-14.302" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3613,12 +3613,12 @@ design rules under a new name.</description>
 <attribute name="MOUSER_PART_NUMBER" value="78-SIC431AED-T1-GE3" x="-14.269" y="-14.302" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Vishay-Siliconix/SIC431AED-T1-GE3?qs=chTDxNqvsynTWHIPRmLWxw%3D%3D" x="-14.269" y="-14.302" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="R11" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="100k" x="8.03" y="9.21" smashed="yes" rot="R270"/>
-<element name="R12" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="11k" x="8.1" y="4.1" smashed="yes" rot="R90"/>
-<element name="R13" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="12k" x="6.3" y="3.6" smashed="yes"/>
-<element name="R14" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="510k" x="7.73" y="7.41" smashed="yes" rot="R180"/>
-<element name="R15" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="510k" x="7.73" y="6.51" smashed="yes" rot="R180"/>
-<element name="L3" library="SamacSys_Parts" package="INDPM8680X400N" value="MPXV1D0840L1R0" x="-3.97" y="7.31" smashed="yes" rot="R180">
+<element name="R6" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="100k" x="8.03" y="9.21" smashed="yes" rot="R270"/>
+<element name="R9" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="11k" x="8.1" y="4.1" smashed="yes" rot="R90"/>
+<element name="R10" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="12k" x="6.3" y="3.6" smashed="yes"/>
+<element name="R7" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="510k" x="7.73" y="7.41" smashed="yes" rot="R180"/>
+<element name="R8" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="510k" x="7.73" y="6.51" smashed="yes" rot="R180"/>
+<element name="L2" library="SamacSys_Parts" package="INDPM8680X400N" value="MPXV1D0840L1R0" x="-3.97" y="7.31" smashed="yes" rot="R180">
 <attribute name="DESCRIPTION" value="KEMET, MPXV, Power, 1 uH, 20%, 155C, -55C, 0840(3431), 20.8 A, 4.2 mOhms, 40 MHz, 1000, 8.65mm, 8.9mm, 8mm, 8.2mm, 4mm, 4mm" x="-3.97" y="7.31" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="HEIGHT" value="4mm" x="-3.97" y="7.31" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="KEMET" x="-3.97" y="7.31" size="1.778" layer="27" rot="R180" display="off"/>
@@ -3626,24 +3626,24 @@ design rules under a new name.</description>
 <attribute name="MOUSER_PART_NUMBER" value="" x="-3.97" y="7.31" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="" x="-3.97" y="7.31" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="C50" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="-2.37" y="16.51" smashed="yes" rot="MR270">
+<element name="C30" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="-2.37" y="16.51" smashed="yes" rot="MR270">
 <attribute name="VALUE" x="-0.465" y="17.145" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C51" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="-1.17" y="16.51" smashed="yes" rot="MR270">
+<element name="C31" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="-1.17" y="16.51" smashed="yes" rot="MR270">
 <attribute name="VALUE" x="0.735" y="17.145" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C52" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="0.03" y="16.51" smashed="yes" rot="MR270">
+<element name="C32" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="0.03" y="16.51" smashed="yes" rot="MR270">
 <attribute name="VALUE" x="1.935" y="17.145" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C53" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="1.23" y="16.51" smashed="yes" rot="MR270">
+<element name="C33" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="1.23" y="16.51" smashed="yes" rot="MR270">
 <attribute name="VALUE" x="3.135" y="17.145" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C54" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="2.43" y="16.51" smashed="yes" rot="MR270">
+<element name="C34" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="2.43" y="16.51" smashed="yes" rot="MR270">
 <attribute name="VALUE" x="4.335" y="17.145" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C14" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="-5.5" y="13.2" smashed="yes"/>
-<element name="C15" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="13.18" y="13.24" smashed="yes"/>
-<element name="PS1" library="SamacSys_Parts" package="BGA15C40P3X5_134X226X62" value="TPS63810YFFR" x="-5.207" y="-1.27" smashed="yes" rot="R90">
+<element name="C35" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="-5.5" y="13.2" smashed="yes"/>
+<element name="C16" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0402" package3d_urn="urn:adsk.eagle:package:2745540/2" value="0.1uF" x="13.18" y="13.24" smashed="yes"/>
+<element name="IC3" library="SamacSys_Parts" package="BGA15C40P3X5_134X226X62" value="TPS63810YFFR" x="-5.207" y="-1.27" smashed="yes" rot="R90">
 <attribute name="DESCRIPTION" value="Switching Voltage Regulators 2.5-A high-efficient buck-boost converter with interface for dynamic voltage scaling 15-DSBGA -40 to 85" x="-5.207" y="-1.27" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="HEIGHT" value="0.625mm" x="-5.207" y="-1.27" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="Texas Instruments" x="-5.207" y="-1.27" size="1.778" layer="27" rot="R90" display="off"/>
@@ -3651,10 +3651,10 @@ design rules under a new name.</description>
 <attribute name="MOUSER_PART_NUMBER" value="595-TPS63810YFFR" x="-5.207" y="-1.27" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS63810YFFR?qs=B6kkDfuK7%2FBxO%252BN9P7Asyw%3D%3D" x="-5.207" y="-1.27" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="C16" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="-7.4676" y="-1.27" smashed="yes" rot="R90"/>
-<element name="C17" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="-2.413" y="-0.1524" smashed="yes" rot="R90"/>
-<element name="C18" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="-1.0922" y="-0.1524" smashed="yes" rot="R90"/>
-<element name="L4" library="Inductor" library_urn="urn:adsk.eagle:library:16378440" package="INDC2009X120" package3d_urn="urn:adsk.eagle:package:16378480/1" value="TFM201208BLE-R47MTCF" x="-5.207" y="1.2192" smashed="yes">
+<element name="C39" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="-7.4676" y="-1.27" smashed="yes" rot="R90"/>
+<element name="C40" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="-2.413" y="-0.1524" smashed="yes" rot="R90"/>
+<element name="C41" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="-1.0922" y="-0.1524" smashed="yes" rot="R90"/>
+<element name="L3" library="Inductor" library_urn="urn:adsk.eagle:library:16378440" package="INDC2009X120" package3d_urn="urn:adsk.eagle:package:16378480/1" value="TFM201208BLE-R47MTCF" x="-5.207" y="1.2192" smashed="yes">
 <attribute name="CATEGORY" value="Inductor" x="-5.207" y="1.2192" size="1.778" layer="27" display="off"/>
 <attribute name="CURRENT_RATING" value="" x="-5.207" y="1.2192" size="1.778" layer="27" display="off"/>
 <attribute name="MANUFACTURER" value="" x="-5.207" y="1.2192" size="1.778" layer="27" display="off"/>
@@ -3667,7 +3667,7 @@ design rules under a new name.</description>
 <attribute name="THERMALLOSS" value="" x="-5.207" y="1.2192" size="1.778" layer="27" display="off"/>
 <attribute name="TYPE" value="" x="-5.207" y="1.2192" size="1.778" layer="27" display="off"/>
 </element>
-<element name="PS2" library="SamacSys_Parts" package="MUN3CAD03SE" value="MUN3CAD03-SE" x="9.017" y="-0.254" smashed="yes" rot="R270">
+<element name="IC4" library="SamacSys_Parts" package="MUN3CAD03SE" value="MUN3CAD03-SE" x="9.017" y="-0.254" smashed="yes" rot="R270">
 <attribute name="DESCRIPTION" value="Non-Isolated DC/DC Converters 3A 5Vin inductor-integrated DC-DC converters" x="9.017" y="3.302" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="HEIGHT" value="1.3mm" x="9.017" y="3.302" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="Delta Electronics" x="9.017" y="3.302" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3675,16 +3675,16 @@ design rules under a new name.</description>
 <attribute name="MOUSER_PART_NUMBER" value="108-MUN3CAD03-SE" x="9.017" y="3.302" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Delta-Electronics/MUN3CAD03-SE?qs=t7xnP681wgWoX6LfHO%2FvWw%3D%3D" x="9.017" y="3.302" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="C19" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="12.7" y="0.127" smashed="yes" rot="R90"/>
-<element name="C21" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="11.43" y="0.127" smashed="yes" rot="R90"/>
-<element name="C22" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="6.477" y="-0.254" smashed="yes" rot="R270"/>
-<element name="R4" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="11k" x="9.398" y="-2.667" smashed="yes"/>
-<element name="R5" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="12k" x="7.493" y="-2.667" smashed="yes"/>
-<element name="C36" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="18.796" y="0.127" smashed="yes" rot="R90"/>
-<element name="C56" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="14.478" y="0.127" smashed="yes" rot="R90"/>
-<element name="R19" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="11k" x="18.669" y="-1.905" smashed="yes" rot="R180"/>
-<element name="R20" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="12k" x="20.193" y="-0.889" smashed="yes" rot="R270"/>
-<element name="IC2" library="SamacSys_Parts" package="MUN3CAD01SB" value="MUN3CAD01-SB" x="16.637" y="0.127" smashed="yes" rot="R180">
+<element name="C43" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="12.7" y="0.127" smashed="yes" rot="R90"/>
+<element name="C44" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="11.43" y="0.127" smashed="yes" rot="R90"/>
+<element name="C42" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="6.477" y="-0.254" smashed="yes" rot="R270"/>
+<element name="R11" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="200k" x="9.398" y="-2.667" smashed="yes"/>
+<element name="R12" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="133k" x="7.493" y="-2.667" smashed="yes"/>
+<element name="C47" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="18.796" y="0.127" smashed="yes" rot="R90"/>
+<element name="C45" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="14.478" y="0.127" smashed="yes" rot="R90"/>
+<element name="R13" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="200k" x="18.669" y="-1.905" smashed="yes" rot="R180"/>
+<element name="R14" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="187k" x="20.193" y="-0.889" smashed="yes" rot="R270"/>
+<element name="IC5" library="SamacSys_Parts" package="MUN3CAD01SB" value="MUN3CAD01-SB" x="16.637" y="0.127" smashed="yes" rot="R180">
 <attribute name="DESCRIPTION" value="1.0A Output Current  92% Peak Efficiency at 3.3VIN  Input Voltage Range from 2.5V to 5.5V  Output Voltage Range from 0.8V to 4.0V(2.5mm  2.0mm x 1.1mm(max))  Enable Function" x="16.637" y="0.127" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="HEIGHT" value="1.1mm" x="16.637" y="0.127" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="Cyntec" x="16.637" y="0.127" size="1.778" layer="27" rot="R180" display="off"/>
@@ -3692,11 +3692,11 @@ design rules under a new name.</description>
 <attribute name="MOUSER_PART_NUMBER" value="" x="16.637" y="0.127" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="" x="16.637" y="0.127" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="C23" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="25.781" y="0.127" smashed="yes" rot="R90"/>
-<element name="C24" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="21.463" y="0.127" smashed="yes" rot="R90"/>
-<element name="R6" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="11k" x="25.527" y="-1.905" smashed="yes" rot="R180"/>
-<element name="R9" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="12k" x="27.178" y="-0.889" smashed="yes" rot="R270"/>
-<element name="IC4" library="SamacSys_Parts" package="MUN3CAD01SB" value="MUN3CAD01-SB" x="23.622" y="0.127" smashed="yes" rot="R180">
+<element name="C48" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="25.781" y="0.127" smashed="yes" rot="R90"/>
+<element name="C46" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="21.463" y="0.127" smashed="yes" rot="R90"/>
+<element name="R15" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="187k" x="25.527" y="-1.905" smashed="yes" rot="R180"/>
+<element name="R16" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="200k" x="27.178" y="-0.889" smashed="yes" rot="R270"/>
+<element name="IC6" library="SamacSys_Parts" package="MUN3CAD01SB" value="MUN3CAD01-SB" x="23.622" y="0.127" smashed="yes" rot="R180">
 <attribute name="DESCRIPTION" value="1.0A Output Current  92% Peak Efficiency at 3.3VIN  Input Voltage Range from 2.5V to 5.5V  Output Voltage Range from 0.8V to 4.0V(2.5mm  2.0mm x 1.1mm(max))  Enable Function" x="27.178" y="19.939" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="HEIGHT" value="1.1mm" x="27.178" y="19.939" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="Cyntec" x="27.178" y="19.939" size="1.778" layer="27" rot="R180" display="off"/>
@@ -3704,29 +3704,29 @@ design rules under a new name.</description>
 <attribute name="MOUSER_PART_NUMBER" value="" x="27.178" y="19.939" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="" x="27.178" y="19.939" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="TP1" library="testpad" library_urn="urn:adsk.eagle:library:385" package="TP12SQ" package3d_urn="urn:adsk.eagle:package:27964/1" value="TPTP12SQ" x="23.622" y="-2.413" smashed="yes">
+<element name="TP4" library="testpad" library_urn="urn:adsk.eagle:library:385" package="TP12SQ" package3d_urn="urn:adsk.eagle:package:27964/1" value="TPTP12SQ" x="23.622" y="-2.413" smashed="yes">
 <attribute name="POPULARITY" value="0" x="23.622" y="-2.413" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="23.622" y="-2.413" size="1.778" layer="27" display="off"/>
 </element>
-<element name="TP2" library="testpad" library_urn="urn:adsk.eagle:library:385" package="TP12SQ" package3d_urn="urn:adsk.eagle:package:27964/1" value="TPTP12SQ" x="16.637" y="-2.413" smashed="yes">
+<element name="TP3" library="testpad" library_urn="urn:adsk.eagle:library:385" package="TP12SQ" package3d_urn="urn:adsk.eagle:package:27964/1" value="TPTP12SQ" x="16.637" y="-2.413" smashed="yes">
 <attribute name="POPULARITY" value="0" x="16.637" y="-2.413" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="16.637" y="-2.413" size="1.778" layer="27" display="off"/>
 </element>
-<element name="TP3" library="testpad" library_urn="urn:adsk.eagle:library:385" package="TP12SQ" package3d_urn="urn:adsk.eagle:package:27964/1" value="TPTP12SQ" x="11.557" y="-2.413" smashed="yes">
+<element name="TP2" library="testpad" library_urn="urn:adsk.eagle:library:385" package="TP12SQ" package3d_urn="urn:adsk.eagle:package:27964/1" value="TPTP12SQ" x="11.557" y="-2.413" smashed="yes">
 <attribute name="POPULARITY" value="0" x="11.557" y="-2.413" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="11.557" y="-4.953" size="1" layer="37"/>
 </element>
-<element name="TP4" library="testpad" library_urn="urn:adsk.eagle:library:385" package="TP12SQ" package3d_urn="urn:adsk.eagle:package:27964/1" value="TPTP12SQ" x="-1.524" y="-2.54" smashed="yes">
+<element name="TP1" library="testpad" library_urn="urn:adsk.eagle:library:385" package="TP12SQ" package3d_urn="urn:adsk.eagle:package:27964/1" value="TPTP12SQ" x="-1.524" y="-2.54" smashed="yes">
 <attribute name="POPULARITY" value="0" x="-1.524" y="-2.54" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="-1.524" y="-5.08" size="1" layer="37"/>
 </element>
-<element name="C25" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="4.064" y="1.651" smashed="yes"/>
-<element name="C26" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="3.74141875" y="-2.542540625" smashed="yes"/>
+<element name="C49" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="4.064" y="1.651" smashed="yes"/>
+<element name="C50" library="resistor" library_urn="urn:adsk.eagle:library:2745533" package="C0603" package3d_urn="urn:adsk.eagle:package:34155559/1" value="22uF" x="3.74141875" y="-2.542540625" smashed="yes"/>
 <element name="TP5" library="testpad" library_urn="urn:adsk.eagle:library:385" package="TP12SQ" package3d_urn="urn:adsk.eagle:package:27964/1" value="TPTP12SQ" x="1.397" y="-2.54" smashed="yes" rot="R90">
 <attribute name="POPULARITY" value="0" x="11.43" y="-13.462" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="3.937" y="-2.54" size="1" layer="37" rot="R90"/>
 </element>
-<element name="L1" library="SamacSys_Parts" package="1286ASH1R0MP2" value="1286AS-H-R47M=P2" x="1.397" y="0.254" smashed="yes" rot="R270">
+<element name="L4" library="SamacSys_Parts" package="1286ASH1R0MP2" value="1286AS-H-R47M=P2" x="1.397" y="0.254" smashed="yes" rot="R270">
 <attribute name="DESCRIPTION" value="Toko DFE201612C Series Shielded Wire-wound SMD Inductor with a Powered Iron Core, 470 nH Wire-Wound 4.2A Idc" x="1.397" y="0.254" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="HEIGHT" value="1.2mm" x="1.397" y="0.254" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="Murata Electronics" x="1.397" y="0.254" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3734,7 +3734,7 @@ design rules under a new name.</description>
 <attribute name="MOUSER_PART_NUMBER" value="81-1286AS-H-R47MP2" x="1.397" y="0.254" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Murata-Electronics/1286AS-H-R47M%3dP2?qs=KuGPmAKtFKWcPKeH5oNBbA%3D%3D" x="1.397" y="0.254" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="IC5" library="SamacSys_Parts" package="BGA9C40P3X3_122X122X62" value="FAN48610BUC50X" x="3.81" y="-0.508" smashed="yes" rot="R90">
+<element name="IC7" library="SamacSys_Parts" package="BGA9C40P3X3_122X122X62" value="FAN48610BUC50X" x="3.81" y="-0.508" smashed="yes" rot="R90">
 <attribute name="DESCRIPTION" value="Fairchild Semiconductor FAN48610BUC50X, Boost Converter, Synchronous Boost Regulator 1000mA Maximum of 5 V, 3 MHz" x="3.81" y="-0.508" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="HEIGHT" value="0.619mm" x="3.81" y="-0.508" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MANUFACTURER_NAME" value="onsemi" x="3.81" y="-0.508" size="1.778" layer="27" rot="R90" display="off"/>
@@ -3750,13 +3750,13 @@ design rules under a new name.</description>
 <signals>
 <signal name="BOOT">
 <contactref element="IC1" pad="23"/>
-<contactref element="C2" pad="1"/>
+<contactref element="C7" pad="1"/>
 <wire x1="24.638" y1="8.371" x2="25.365" y2="8.371" width="0.3048" layer="1"/>
 <wire x1="25.677" y1="8.683" x2="25.737" y2="8.683" width="0.3048" layer="1"/>
 <wire x1="25.677" y1="8.683" x2="25.365" y2="8.371" width="0.3048" layer="1"/>
 </signal>
 <signal name="PHASE">
-<contactref element="C2" pad="2"/>
+<contactref element="C7" pad="2"/>
 <contactref element="IC1" pad="24"/>
 <wire x1="25.66" y1="9.683" x2="24.798" y2="8.821" width="0.3048" layer="1"/>
 <wire x1="24.638" y1="8.821" x2="24.798" y2="8.821" width="0.3048" layer="1"/>
@@ -3769,19 +3769,19 @@ design rules under a new name.</description>
 <contactref element="IC1" pad="27"/>
 <contactref element="IC1" pad="16"/>
 <contactref element="IC1" pad="25"/>
-<contactref element="C1" pad="2"/>
-<contactref element="C3" pad="1"/>
-<contactref element="C5" pad="2"/>
 <contactref element="C6" pad="2"/>
-<contactref element="C7" pad="2"/>
-<contactref element="C12" pad="2"/>
-<contactref element="C13" pad="2"/>
-<contactref element="R3" pad="1"/>
-<contactref element="C4" pad="2"/>
-<contactref element="C10" pad="2"/>
+<contactref element="C8" pad="1"/>
+<contactref element="C17" pad="2"/>
+<contactref element="C18" pad="2"/>
+<contactref element="C19" pad="2"/>
 <contactref element="C9" pad="2"/>
-<contactref element="C8" pad="2"/>
-<contactref element="C11" pad="2"/>
+<contactref element="C10" pad="2"/>
+<contactref element="R5" pad="1"/>
+<contactref element="C5" pad="2"/>
+<contactref element="C1" pad="2"/>
+<contactref element="C2" pad="2"/>
+<contactref element="C3" pad="2"/>
+<contactref element="C4" pad="2"/>
 <via x="23.4492" y="6.8746" extent="1-16" drill="0.254" diameter="0.4"/>
 <wire x1="23.6994" y1="4.76473125" x2="23.6994" y2="4.1006" width="0.3048" layer="1"/>
 <wire x1="23.6994" y1="4.1006" x2="23.7" y2="4.1" width="0.3048" layer="1"/>
@@ -3864,26 +3864,26 @@ design rules under a new name.</description>
 <via x="22.3" y="8" extent="1-16" drill="0.254" diameter="0.4"/>
 <via x="21.7" y="7.3" extent="1-16" drill="0.254" diameter="0.4"/>
 <via x="22.3" y="7.3" extent="1-16" drill="0.254" diameter="0.4"/>
-<contactref element="R7" pad="1"/>
-<contactref element="R8" pad="1"/>
+<contactref element="R2" pad="1"/>
+<contactref element="R3" pad="1"/>
 <via x="26.4" y="5.8" extent="1-16" drill="0.254" diameter="0.4"/>
 <wire x1="26.9" y1="7.4" x2="26.9" y2="6.5" width="0.4064" layer="1"/>
 <wire x1="26.9" y1="6.5" x2="26.9" y2="6.3" width="0.4064" layer="1"/>
 <wire x1="26.9" y1="6.3" x2="26.4" y2="5.8" width="0.4064" layer="1"/>
-<contactref element="C20" pad="2"/>
-<contactref element="C27" pad="2"/>
-<contactref element="C28" pad="2"/>
-<contactref element="C29" pad="2"/>
-<contactref element="C30" pad="2"/>
-<contactref element="C40" pad="2"/>
-<contactref element="IC3" pad="3"/>
-<contactref element="IC3" pad="4"/>
-<contactref element="IC3" pad="13"/>
-<contactref element="IC3" pad="27"/>
-<contactref element="IC3" pad="16"/>
-<contactref element="IC3" pad="25"/>
-<contactref element="C37" pad="2"/>
-<contactref element="IC3" pad="29"/>
+<contactref element="C11" pad="2"/>
+<contactref element="C12" pad="2"/>
+<contactref element="C13" pad="2"/>
+<contactref element="C14" pad="2"/>
+<contactref element="C15" pad="2"/>
+<contactref element="C24" pad="2"/>
+<contactref element="IC2" pad="3"/>
+<contactref element="IC2" pad="4"/>
+<contactref element="IC2" pad="13"/>
+<contactref element="IC2" pad="27"/>
+<contactref element="IC2" pad="16"/>
+<contactref element="IC2" pad="25"/>
+<contactref element="C25" pad="2"/>
+<contactref element="IC2" pad="29"/>
 <via x="4.7792" y="6.8846" extent="1-16" drill="0.254" diameter="0.4"/>
 <wire x1="3.506" y1="5.418" x2="3.506" y2="4.5420625" width="0.3048" layer="1"/>
 <wire x1="3.506" y1="4.5420625" x2="3.35888125" y2="4.39494375" width="0.3048" layer="1"/>
@@ -3900,24 +3900,24 @@ design rules under a new name.</description>
 <wire x1="4.856" y1="5.418" x2="4.856" y2="6.8078" width="0.3048" layer="1"/>
 <wire x1="4.856" y1="6.8078" x2="4.7792" y2="6.8846" width="0.3048" layer="1"/>
 <via x="3.73" y="6.61" extent="1-16" drill="0.254" diameter="0.4"/>
-<contactref element="R14" pad="1"/>
-<contactref element="R15" pad="1"/>
-<contactref element="R13" pad="1"/>
-<contactref element="C39" pad="1"/>
-<contactref element="C41" pad="2"/>
-<contactref element="C42" pad="2"/>
-<contactref element="C43" pad="2"/>
-<contactref element="C48" pad="2"/>
-<contactref element="C49" pad="2"/>
-<contactref element="C50" pad="2"/>
-<contactref element="C51" pad="2"/>
-<contactref element="C52" pad="2"/>
-<contactref element="C53" pad="2"/>
-<contactref element="C54" pad="2"/>
-<contactref element="C46" pad="2"/>
-<contactref element="C45" pad="2"/>
-<contactref element="C44" pad="2"/>
-<contactref element="C47" pad="2"/>
+<contactref element="R7" pad="1"/>
+<contactref element="R8" pad="1"/>
+<contactref element="R10" pad="1"/>
+<contactref element="C27" pad="1"/>
+<contactref element="C36" pad="2"/>
+<contactref element="C37" pad="2"/>
+<contactref element="C38" pad="2"/>
+<contactref element="C28" pad="2"/>
+<contactref element="C29" pad="2"/>
+<contactref element="C30" pad="2"/>
+<contactref element="C31" pad="2"/>
+<contactref element="C32" pad="2"/>
+<contactref element="C33" pad="2"/>
+<contactref element="C34" pad="2"/>
+<contactref element="C20" pad="2"/>
+<contactref element="C21" pad="2"/>
+<contactref element="C22" pad="2"/>
+<contactref element="C23" pad="2"/>
 <polygon width="0.1524" layer="1" thermals="no">
 <vertex x="5.37" y="6.01"/>
 <vertex x="5.37" y="7.513"/>
@@ -3986,8 +3986,8 @@ design rules under a new name.</description>
 <wire x1="8.23" y1="6.51" x2="8.23" y2="6.3" width="0.4064" layer="1"/>
 <wire x1="8.23" y1="6.3" x2="7.72" y2="5.79" width="0.4064" layer="1"/>
 <via x="7.72" y="5.79" extent="1-16" drill="0.254" diameter="0.4"/>
-<contactref element="C14" pad="2"/>
-<contactref element="C15" pad="2"/>
+<contactref element="C35" pad="2"/>
+<contactref element="C16" pad="2"/>
 <polygon width="0.1524" layer="2" thermals="no" rank="3">
 <vertex x="28.1" y="-5.2"/>
 <vertex x="-9.3" y="-5.2"/>
@@ -4047,13 +4047,13 @@ design rules under a new name.</description>
 <wire x1="5.8" y1="3.6" x2="5.06" y2="4.34" width="0.3048" layer="1"/>
 <via x="19.77" y="14.52" extent="1-16" drill="0.35" diameter="0.65"/>
 <via x="16.27" y="14.42" extent="1-16" drill="0.35" diameter="0.65"/>
-<contactref element="C16" pad="2"/>
-<contactref element="PS1" pad="B1"/>
-<contactref element="PS1" pad="C2"/>
-<contactref element="PS1" pad="C3"/>
-<contactref element="PS1" pad="C1"/>
-<contactref element="C17" pad="2"/>
-<contactref element="C18" pad="2"/>
+<contactref element="C39" pad="2"/>
+<contactref element="IC3" pad="B1"/>
+<contactref element="IC3" pad="C2"/>
+<contactref element="IC3" pad="C3"/>
+<contactref element="IC3" pad="C1"/>
+<contactref element="C40" pad="2"/>
+<contactref element="C41" pad="2"/>
 <wire x1="-5.207" y1="-1.67" x2="-5.207" y2="-1.27" width="0.3048" layer="1"/>
 <wire x1="-5.207" y1="-1.27" x2="-5.207" y2="-0.87" width="0.3048" layer="1"/>
 <wire x1="-5.607" y1="-1.67" x2="-5.207" y2="-1.67" width="0.3048" layer="1"/>
@@ -4074,28 +4074,28 @@ design rules under a new name.</description>
 <wire x1="-2.413" y1="0.6976" x2="-2.413" y2="0.5588" width="0.508" layer="1"/>
 <wire x1="-2.413" y1="0.5588" x2="-2.74828125" y2="0.22351875" width="0.508" layer="1"/>
 <wire x1="-1.0922" y1="0.6976" x2="-2.413" y2="0.6976" width="0.508" layer="1"/>
-<contactref element="PS2" pad="6"/>
-<contactref element="PS2" pad="9"/>
-<contactref element="PS2" pad="5"/>
-<contactref element="C19" pad="2"/>
-<contactref element="C21" pad="2"/>
-<contactref element="C22" pad="2"/>
-<contactref element="R5" pad="1"/>
-<contactref element="C36" pad="2"/>
-<contactref element="C56" pad="2"/>
-<contactref element="R20" pad="1"/>
-<contactref element="IC2" pad="2"/>
-<contactref element="IC2" pad="6"/>
-<contactref element="C23" pad="2"/>
-<contactref element="C24" pad="2"/>
-<contactref element="IC4" pad="2"/>
 <contactref element="IC4" pad="6"/>
-<contactref element="R9" pad="1"/>
-<contactref element="C25" pad="2"/>
-<contactref element="C26" pad="2"/>
-<contactref element="IC5" pad="C1"/>
-<contactref element="IC5" pad="C2"/>
-<contactref element="IC5" pad="C3"/>
+<contactref element="IC4" pad="9"/>
+<contactref element="IC4" pad="5"/>
+<contactref element="C43" pad="2"/>
+<contactref element="C44" pad="2"/>
+<contactref element="C42" pad="2"/>
+<contactref element="R12" pad="1"/>
+<contactref element="C47" pad="2"/>
+<contactref element="C45" pad="2"/>
+<contactref element="R14" pad="1"/>
+<contactref element="IC5" pad="2"/>
+<contactref element="IC5" pad="6"/>
+<contactref element="C48" pad="2"/>
+<contactref element="C46" pad="2"/>
+<contactref element="IC6" pad="2"/>
+<contactref element="IC6" pad="6"/>
+<contactref element="R16" pad="1"/>
+<contactref element="C49" pad="2"/>
+<contactref element="C50" pad="2"/>
+<contactref element="IC7" pad="C1"/>
+<contactref element="IC7" pad="C2"/>
+<contactref element="IC7" pad="C3"/>
 <wire x1="4.21" y1="-0.108" x2="4.21" y2="-0.508" width="0.3048" layer="1"/>
 <wire x1="4.21" y1="-0.508" x2="4.21" y2="-0.908" width="0.3048" layer="1"/>
 <wire x1="4.21" y1="-0.908" x2="4.21" y2="-1.035" width="0.3048" layer="1"/>
@@ -4169,10 +4169,10 @@ design rules under a new name.</description>
 <contactref element="IC1" pad="2"/>
 <contactref element="IC1" pad="22"/>
 <contactref element="IC1" pad="26"/>
-<contactref element="C11" pad="1"/>
-<contactref element="C8" pad="1"/>
-<contactref element="C9" pad="1"/>
-<contactref element="C10" pad="1"/>
+<contactref element="C4" pad="1"/>
+<contactref element="C3" pad="1"/>
+<contactref element="C2" pad="1"/>
+<contactref element="C1" pad="1"/>
 <wire x1="24.638" y1="7.921" x2="24.128" y2="7.921" width="0.3048" layer="1"/>
 <wire x1="24.128" y1="7.921" x2="23.501" y2="8.548" width="0.3048" layer="1"/>
 <wire x1="23.501" y1="8.548" x2="23.451" y2="8.548" width="0.3048" layer="1"/>
@@ -4199,15 +4199,15 @@ design rules under a new name.</description>
 <wire x1="26.7" y1="8.6" x2="26.7" y2="8.7" width="0.1524" layer="1"/>
 <wire x1="25.4779" y1="7.921" x2="26.16" y2="8.17" width="0.1524" layer="1"/>
 <wire x1="26.16" y1="8.17" x2="26.65" y2="8.7" width="0.1524" layer="1"/>
-<contactref element="IC3" pad="1"/>
-<contactref element="R11" pad="2"/>
-<contactref element="IC3" pad="2"/>
-<contactref element="IC3" pad="22"/>
-<contactref element="IC3" pad="26"/>
-<contactref element="C47" pad="1"/>
-<contactref element="C44" pad="1"/>
-<contactref element="C45" pad="1"/>
-<contactref element="C46" pad="1"/>
+<contactref element="IC2" pad="1"/>
+<contactref element="R6" pad="2"/>
+<contactref element="IC2" pad="2"/>
+<contactref element="IC2" pad="22"/>
+<contactref element="IC2" pad="26"/>
+<contactref element="C23" pad="1"/>
+<contactref element="C22" pad="1"/>
+<contactref element="C21" pad="1"/>
+<contactref element="C20" pad="1"/>
 <wire x1="5.968" y1="7.931" x2="5.458" y2="7.931" width="0.3048" layer="1"/>
 <wire x1="5.458" y1="7.931" x2="4.831" y2="8.558" width="0.3048" layer="1"/>
 <wire x1="4.831" y1="8.558" x2="4.781" y2="8.558" width="0.3048" layer="1"/>
@@ -4292,25 +4292,25 @@ design rules under a new name.</description>
 <via x="4.78" y="8.54" extent="1-16" drill="0.254" diameter="0.4"/>
 <wire x1="23.44" y1="8.53" x2="24.97" y2="8.53" width="0.508" layer="16"/>
 <wire x1="24.97" y1="8.53" x2="25" y2="8.5" width="0.508" layer="16"/>
-<contactref element="PS1" pad="A2"/>
-<contactref element="PS1" pad="A3"/>
-<contactref element="C16" pad="1"/>
-<contactref element="PS1" pad="A1"/>
+<contactref element="IC3" pad="A2"/>
+<contactref element="IC3" pad="A3"/>
+<contactref element="C39" pad="1"/>
+<contactref element="IC3" pad="A1"/>
 <wire x1="-6.007" y1="-1.67" x2="-6.007" y2="-0.87" width="0.3048" layer="1"/>
-<contactref element="PS2" pad="4"/>
-<contactref element="PS2" pad="3"/>
-<contactref element="PS2" pad="1"/>
-<contactref element="C22" pad="1"/>
-<contactref element="C56" pad="1"/>
-<contactref element="IC2" pad="7"/>
-<contactref element="IC2" pad="1"/>
-<contactref element="C24" pad="1"/>
-<contactref element="IC4" pad="7"/>
+<contactref element="IC4" pad="4"/>
+<contactref element="IC4" pad="3"/>
 <contactref element="IC4" pad="1"/>
-<contactref element="C25" pad="1"/>
-<contactref element="IC5" pad="A3"/>
-<contactref element="IC5" pad="B3"/>
-<contactref element="L1" pad="1"/>
+<contactref element="C42" pad="1"/>
+<contactref element="C45" pad="1"/>
+<contactref element="IC5" pad="7"/>
+<contactref element="IC5" pad="1"/>
+<contactref element="C46" pad="1"/>
+<contactref element="IC6" pad="7"/>
+<contactref element="IC6" pad="1"/>
+<contactref element="C49" pad="1"/>
+<contactref element="IC7" pad="A3"/>
+<contactref element="IC7" pad="B3"/>
+<contactref element="L4" pad="1"/>
 <polygon width="0" layer="1" thermals="no">
 <vertex x="5.842" y="-0.254"/>
 <vertex x="7.112" y="-0.254"/>
@@ -4398,13 +4398,13 @@ design rules under a new name.</description>
 </signal>
 <signal name="1V">
 <contactref element="IC1" pad="18"/>
-<contactref element="C3" pad="2"/>
-<contactref element="R2" pad="2"/>
-<contactref element="C5" pad="1"/>
-<contactref element="C6" pad="1"/>
-<contactref element="C7" pad="1"/>
-<contactref element="C12" pad="1"/>
-<contactref element="C13" pad="1"/>
+<contactref element="C8" pad="2"/>
+<contactref element="R4" pad="2"/>
+<contactref element="C17" pad="1"/>
+<contactref element="C18" pad="1"/>
+<contactref element="C19" pad="1"/>
+<contactref element="C9" pad="1"/>
+<contactref element="C10" pad="1"/>
 <wire x1="25.348" y1="5.2" x2="25.348" y2="5.482" width="0.3048" layer="1"/>
 <wire x1="24.96" y1="5.87" x2="24.638" y2="5.87" width="0.3048" layer="1"/>
 <wire x1="25.348" y1="5.482" x2="24.96" y2="5.87" width="0.3048" layer="1"/>
@@ -4413,7 +4413,7 @@ design rules under a new name.</description>
 <wire x1="25.348" y1="5.2" x2="24.218" y2="6.33" width="0.2032" layer="2"/>
 <wire x1="24.218" y1="14.502" x2="24.218" y2="15.502" width="0.2032" layer="15"/>
 <wire x1="24.218" y1="15.502" x2="21.72" y2="18" width="0.2032" layer="15"/>
-<contactref element="L2" pad="2"/>
+<contactref element="L1" pad="2"/>
 <polygon width="0.1524" layer="1" thermals="no">
 <vertex x="10.3" y="2.624"/>
 <vertex x="12.3682" y="2.624"/>
@@ -4439,12 +4439,12 @@ design rules under a new name.</description>
 <vertex x="23.14" y="17.44"/>
 <vertex x="23.14" y="19.2"/>
 </polygon>
-<contactref element="C20" pad="1"/>
-<contactref element="C27" pad="1"/>
-<contactref element="C28" pad="1"/>
-<contactref element="C29" pad="1"/>
-<contactref element="C30" pad="1"/>
+<contactref element="C11" pad="1"/>
+<contactref element="C12" pad="1"/>
+<contactref element="C13" pad="1"/>
+<contactref element="C14" pad="1"/>
 <contactref element="C15" pad="1"/>
+<contactref element="C16" pad="1"/>
 <wire x1="26.5" y1="4.7" x2="25.848" y2="4.7" width="0.3048" layer="1"/>
 <wire x1="25.848" y1="4.7" x2="25.348" y2="5.2" width="0.3048" layer="1"/>
 <via x="9.89" y="10.86" extent="1-16" drill="0.35" diameter="0.65"/>
@@ -4496,11 +4496,11 @@ design rules under a new name.</description>
 <vertex x="15.45" y="11.215"/>
 <vertex x="15.45" y="3.976"/>
 </polygon>
-<contactref element="L2" pad="1"/>
+<contactref element="L1" pad="1"/>
 </signal>
 <signal name="FB">
-<contactref element="R2" pad="1"/>
-<contactref element="R3" pad="2"/>
+<contactref element="R4" pad="1"/>
+<contactref element="R5" pad="2"/>
 <contactref element="IC1" pad="17"/>
 <wire x1="23.976" y1="5.228" x2="23.976" y2="5.408" width="0.2032" layer="1"/>
 <wire x1="23.976" y1="5.408" x2="23.976" y2="5.304" width="0.3048" layer="1"/>
@@ -4512,35 +4512,35 @@ design rules under a new name.</description>
 </signal>
 <signal name="N$6">
 <contactref element="IC1" pad="21"/>
-<contactref element="R7" pad="2"/>
+<contactref element="R2" pad="2"/>
 <wire x1="24.638" y1="7.22" x2="25.31" y2="7.22" width="0.3048" layer="1"/>
 <wire x1="25.49" y1="7.4" x2="25.9" y2="7.4" width="0.3048" layer="1"/>
 <wire x1="25.49" y1="7.4" x2="25.31" y2="7.22" width="0.3048" layer="1"/>
 </signal>
 <signal name="N$8">
 <contactref element="IC1" pad="20"/>
-<contactref element="R8" pad="2"/>
+<contactref element="R3" pad="2"/>
 <wire x1="24.638" y1="6.771" x2="25.189" y2="6.771" width="0.3048" layer="1"/>
 <wire x1="25.46" y1="6.5" x2="25.9" y2="6.5" width="0.3048" layer="1"/>
 <wire x1="25.46" y1="6.5" x2="25.189" y2="6.771" width="0.3048" layer="1"/>
 </signal>
 <signal name="BOOT2">
-<contactref element="IC3" pad="23"/>
-<contactref element="C38" pad="1"/>
+<contactref element="IC2" pad="23"/>
+<contactref element="C26" pad="1"/>
 <wire x1="5.968" y1="8.381" x2="6.695" y2="8.381" width="0.3048" layer="1"/>
 <wire x1="7.007" y1="8.693" x2="7.067" y2="8.693" width="0.3048" layer="1"/>
 <wire x1="7.007" y1="8.693" x2="6.695" y2="8.381" width="0.3048" layer="1"/>
 </signal>
 <signal name="PHASE2">
-<contactref element="C38" pad="2"/>
-<contactref element="IC3" pad="24"/>
+<contactref element="C26" pad="2"/>
+<contactref element="IC2" pad="24"/>
 <wire x1="6.99" y1="9.693" x2="6.128" y2="8.831" width="0.3048" layer="1"/>
 <wire x1="5.968" y1="8.831" x2="6.128" y2="8.831" width="0.3048" layer="1"/>
 <wire x1="6.99" y1="9.693" x2="7.067" y2="9.693" width="0.3048" layer="1"/>
 </signal>
 <signal name="N$12">
-<contactref element="R11" pad="1"/>
-<contactref element="IC3" pad="19"/>
+<contactref element="R6" pad="1"/>
+<contactref element="IC2" pad="19"/>
 <wire x1="5.968" y1="6.33" x2="6.44" y2="6.33" width="0.1524" layer="1"/>
 <wire x1="7.43" y1="5.34" x2="8.14" y2="5.34" width="0.1524" layer="1"/>
 <wire x1="6.44" y1="6.33" x2="7.43" y2="5.34" width="0.1524" layer="1"/>
@@ -4549,21 +4549,21 @@ design rules under a new name.</description>
 <wire x1="8.83" y1="6.03" x2="8.83" y2="8.91" width="0.1524" layer="1"/>
 </signal>
 <signal name="1.15V">
-<contactref element="IC3" pad="18"/>
-<contactref element="C39" pad="2"/>
-<contactref element="R12" pad="2"/>
-<contactref element="C41" pad="1"/>
-<contactref element="C42" pad="1"/>
-<contactref element="C43" pad="1"/>
-<contactref element="C48" pad="1"/>
-<contactref element="C49" pad="1"/>
+<contactref element="IC2" pad="18"/>
+<contactref element="C27" pad="2"/>
+<contactref element="R9" pad="2"/>
+<contactref element="C36" pad="1"/>
+<contactref element="C37" pad="1"/>
+<contactref element="C38" pad="1"/>
+<contactref element="C28" pad="1"/>
+<contactref element="C29" pad="1"/>
 <wire x1="6.678" y1="5.21" x2="6.678" y2="5.492" width="0.3048" layer="1"/>
 <wire x1="6.29" y1="5.88" x2="5.968" y2="5.88" width="0.3048" layer="1"/>
 <wire x1="6.678" y1="5.492" x2="6.29" y2="5.88" width="0.3048" layer="1"/>
 <via x="6.678" y="5.21" extent="1-16" drill="0.254" diameter="0.4"/>
 <wire x1="5.578" y1="6.31" x2="5.578" y2="14.482" width="0.2032" layer="2"/>
 <wire x1="6.678" y1="5.21" x2="5.578" y2="6.31" width="0.2032" layer="2"/>
-<contactref element="L3" pad="2"/>
+<contactref element="L2" pad="2"/>
 <polygon width="0.1524" layer="1" thermals="no">
 <vertex x="-9.07" y="19.21"/>
 <vertex x="-9.07" y="3.514"/>
@@ -4587,12 +4587,12 @@ design rules under a new name.</description>
 <vertex x="4.47" y="17.45"/>
 <vertex x="4.47" y="19.21"/>
 </polygon>
-<contactref element="C50" pad="1"/>
-<contactref element="C51" pad="1"/>
-<contactref element="C52" pad="1"/>
-<contactref element="C53" pad="1"/>
-<contactref element="C54" pad="1"/>
-<contactref element="C14" pad="1"/>
+<contactref element="C30" pad="1"/>
+<contactref element="C31" pad="1"/>
+<contactref element="C32" pad="1"/>
+<contactref element="C33" pad="1"/>
+<contactref element="C34" pad="1"/>
+<contactref element="C35" pad="1"/>
 <wire x1="8.1" y1="4.6" x2="7.288" y2="4.6" width="0.3048" layer="1"/>
 <wire x1="7.288" y1="4.6" x2="6.678" y2="5.21" width="0.3048" layer="1"/>
 <via x="-8.6" y="10.8" extent="1-16" drill="0.35" diameter="0.65"/>
@@ -4626,11 +4626,11 @@ design rules under a new name.</description>
 <via x="-5.7" y="18" extent="1-16" drill="0.254" diameter="0.4"/>
 </signal>
 <signal name="N$13">
-<contactref element="IC3" pad="5"/>
-<contactref element="IC3" pad="6"/>
-<contactref element="IC3" pad="7"/>
-<contactref element="IC3" pad="8"/>
-<contactref element="IC3" pad="9"/>
+<contactref element="IC2" pad="5"/>
+<contactref element="IC2" pad="6"/>
+<contactref element="IC2" pad="7"/>
+<contactref element="IC2" pad="8"/>
+<contactref element="IC2" pad="9"/>
 <polygon width="0.1524" layer="1" thermals="no">
 <vertex x="-1.858" y="2.624"/>
 <vertex x="0.255" y="2.624"/>
@@ -4646,46 +4646,46 @@ design rules under a new name.</description>
 <vertex x="-3.22" y="11.225"/>
 <vertex x="-3.22" y="3.986"/>
 </polygon>
-<contactref element="L3" pad="1"/>
+<contactref element="L2" pad="1"/>
 </signal>
 <signal name="FB2">
-<contactref element="R12" pad="1"/>
-<contactref element="R13" pad="2"/>
-<contactref element="IC3" pad="17"/>
+<contactref element="R9" pad="1"/>
+<contactref element="R10" pad="2"/>
+<contactref element="IC2" pad="17"/>
 <wire x1="5.306" y1="5.418" x2="5.306" y2="5.238" width="0.2032" layer="1"/>
 <wire x1="8.1" y1="3.6" x2="6.8" y2="3.6" width="0.3048" layer="1"/>
 <wire x1="6.8" y1="3.6" x2="5.306" y2="5.094" width="0.3048" layer="1"/>
 <wire x1="5.306" y1="5.094" x2="5.306" y2="5.418" width="0.3048" layer="1"/>
 </signal>
 <signal name="N$14">
-<contactref element="IC3" pad="21"/>
-<contactref element="R14" pad="2"/>
+<contactref element="IC2" pad="21"/>
+<contactref element="R7" pad="2"/>
 <wire x1="5.968" y1="7.23" x2="6.64" y2="7.23" width="0.3048" layer="1"/>
 <wire x1="6.82" y1="7.41" x2="7.23" y2="7.41" width="0.3048" layer="1"/>
 <wire x1="6.82" y1="7.41" x2="6.64" y2="7.23" width="0.3048" layer="1"/>
 </signal>
 <signal name="N$15">
-<contactref element="IC3" pad="20"/>
-<contactref element="R15" pad="2"/>
+<contactref element="IC2" pad="20"/>
+<contactref element="R8" pad="2"/>
 <wire x1="5.968" y1="6.781" x2="6.519" y2="6.781" width="0.3048" layer="1"/>
 <wire x1="6.79" y1="6.51" x2="7.23" y2="6.51" width="0.3048" layer="1"/>
 <wire x1="6.79" y1="6.51" x2="6.519" y2="6.781" width="0.3048" layer="1"/>
 </signal>
 <signal name="+5V">
-<contactref element="C40" pad="1"/>
-<contactref element="IC3" pad="15"/>
-<contactref element="IC3" pad="12"/>
-<contactref element="C37" pad="1"/>
+<contactref element="C24" pad="1"/>
+<contactref element="IC2" pad="15"/>
+<contactref element="IC2" pad="12"/>
+<contactref element="C25" pad="1"/>
 <wire x1="4.406" y1="4.365" x2="4.4" y2="4.359" width="0.4064" layer="1"/>
 <wire x1="4.406" y1="5.418" x2="4.406" y2="4.365" width="0.3048" layer="1"/>
 <wire x1="2.40706875" y1="4.2146" x2="2.2522" y2="4.2146" width="0.3048" layer="1"/>
 <wire x1="3.056" y1="5.418" x2="3.056" y2="4.98425" width="0.3048" layer="1"/>
-<contactref element="C4" pad="1"/>
+<contactref element="C5" pad="1"/>
 <contactref element="IC1" pad="15"/>
 <wire x1="23.076" y1="4.355" x2="23.07" y2="4.349" width="0.4064" layer="1"/>
 <wire x1="23.076" y1="5.408" x2="23.076" y2="4.355" width="0.3048" layer="1"/>
 <contactref element="IC1" pad="12"/>
-<contactref element="C1" pad="1"/>
+<contactref element="C6" pad="1"/>
 <wire x1="21.726" y1="5.03133125" x2="20.967846875" y2="4.273178125" width="0.3048" layer="1"/>
 <wire x1="20.929159375" y1="4.273178125" x2="20.967846875" y2="4.273178125" width="0.3048" layer="1"/>
 <wire x1="21.726" y1="5.03133125" x2="21.726" y2="5.408" width="0.3048" layer="1"/>
@@ -4697,10 +4697,10 @@ design rules under a new name.</description>
 <wire x1="23.07" y1="4.349" x2="22.3024" y2="3.5814" width="0.3048" layer="1"/>
 <wire x1="20.929159375" y1="4.273178125" x2="21.6209375" y2="3.5814" width="0.3048" layer="1"/>
 <wire x1="22.3024" y1="3.5814" x2="21.6209375" y2="3.5814" width="0.3048" layer="1"/>
-<contactref element="C26" pad="1"/>
+<contactref element="C50" pad="1"/>
 <contactref element="TP5" pad="TP"/>
-<contactref element="IC5" pad="A1"/>
-<contactref element="IC5" pad="A2"/>
+<contactref element="IC7" pad="A1"/>
+<contactref element="IC7" pad="A2"/>
 <wire x1="3.41" y1="-0.508" x2="3.41" y2="-0.908" width="0.3048" layer="1"/>
 <wire x1="3.41" y1="-0.908" x2="3.41" y2="-1.065478125" width="0.3048" layer="1"/>
 <wire x1="2.89141875" y1="-1.584059375" x2="2.89141875" y2="-2.542540625" width="0.3048" layer="1"/>
@@ -4742,9 +4742,9 @@ design rules under a new name.</description>
 <wire x1="0.09651875" y1="1.729740625" x2="0.09651875" y2="-1.23951875" width="0.2032" layer="1"/>
 </signal>
 <signal name="SW1">
-<contactref element="PS1" pad="B2"/>
-<contactref element="PS1" pad="B3"/>
-<contactref element="L4" pad="1"/>
+<contactref element="IC3" pad="B2"/>
+<contactref element="IC3" pad="B3"/>
+<contactref element="L3" pad="1"/>
 <wire x1="-5.607" y1="-1.27" x2="-5.607" y2="-0.87" width="0.3048" layer="1"/>
 <wire x1="-5.607" y1="-0.87" x2="-5.607" y2="-0.616" width="0.3048" layer="1"/>
 <wire x1="-5.607" y1="-0.616" x2="-5.842" y2="-0.381" width="0.3048" layer="1"/>
@@ -4771,9 +4771,9 @@ design rules under a new name.</description>
 <wire x1="-6.985" y1="0.254" x2="-6.985" y2="1.397" width="0.508" layer="2"/>
 </signal>
 <signal name="SW2">
-<contactref element="PS1" pad="D2"/>
-<contactref element="PS1" pad="D3"/>
-<contactref element="L4" pad="2"/>
+<contactref element="IC3" pad="D2"/>
+<contactref element="IC3" pad="D3"/>
+<contactref element="L3" pad="2"/>
 <wire x1="-4.807" y1="-1.27" x2="-4.807" y2="-0.87" width="0.3048" layer="1"/>
 <wire x1="-4.807" y1="-0.87" x2="-4.807" y2="-0.616" width="0.3048" layer="1"/>
 <wire x1="-4.807" y1="-0.616" x2="-4.572" y2="-0.381" width="0.3048" layer="1"/>
@@ -4801,13 +4801,13 @@ design rules under a new name.</description>
 <wire x1="-4.5657" y1="-0.381" x2="-4.572" y2="-0.3747" width="0.508" layer="2"/>
 </signal>
 <signal name="3.3V">
-<contactref element="PS1" pad="E2"/>
-<contactref element="PS1" pad="E3"/>
-<contactref element="C17" pad="1"/>
-<contactref element="C18" pad="1"/>
+<contactref element="IC3" pad="E2"/>
+<contactref element="IC3" pad="E3"/>
+<contactref element="C40" pad="1"/>
+<contactref element="C41" pad="1"/>
 <wire x1="-4.407" y1="-1.27" x2="-4.407" y2="-0.87" width="0.3048" layer="1"/>
 <wire x1="-1.0922" y1="-1.0024" x2="-2.413" y2="-1.0024" width="0.508" layer="1"/>
-<contactref element="TP4" pad="TP"/>
+<contactref element="TP1" pad="TP"/>
 <polygon width="0" layer="1" thermals="no">
 <vertex x="-4.572" y="-1.36398125"/>
 <vertex x="-4.572" y="-0.789940625"/>
@@ -4826,11 +4826,11 @@ design rules under a new name.</description>
 </polygon>
 </signal>
 <signal name="1.5V">
-<contactref element="PS2" pad="8"/>
-<contactref element="C19" pad="1"/>
-<contactref element="C21" pad="1"/>
-<contactref element="R4" pad="2"/>
-<contactref element="TP3" pad="TP"/>
+<contactref element="IC4" pad="8"/>
+<contactref element="C43" pad="1"/>
+<contactref element="C44" pad="1"/>
+<contactref element="R11" pad="2"/>
+<contactref element="TP2" pad="TP"/>
 <polygon width="0" layer="1" thermals="no">
 <vertex x="9.652" y="-1.651"/>
 <vertex x="9.652" y="-1.143"/>
@@ -4853,18 +4853,18 @@ design rules under a new name.</description>
 <wire x1="9.898" y1="-1.598" x2="9.992" y2="-1.504" width="0.508" layer="1"/>
 </signal>
 <signal name="FB1">
-<contactref element="R4" pad="1"/>
-<contactref element="R5" pad="2"/>
-<contactref element="PS2" pad="7"/>
+<contactref element="R11" pad="1"/>
+<contactref element="R12" pad="2"/>
+<contactref element="IC4" pad="7"/>
 <wire x1="9.342" y1="-1.504" x2="9.342" y2="-2.223" width="0.2032" layer="1"/>
 <wire x1="9.342" y1="-2.223" x2="8.898" y2="-2.667" width="0.2032" layer="1"/>
 <wire x1="8.898" y1="-2.667" x2="7.993" y2="-2.667" width="0.2032" layer="1"/>
 </signal>
 <signal name="1.1V">
-<contactref element="C23" pad="1"/>
-<contactref element="R6" pad="2"/>
-<contactref element="IC4" pad="8"/>
-<contactref element="TP1" pad="TP"/>
+<contactref element="C48" pad="1"/>
+<contactref element="R15" pad="2"/>
+<contactref element="IC6" pad="8"/>
+<contactref element="TP4" pad="TP"/>
 <wire x1="23.622" y1="-2.413" x2="23.622" y2="-1.033" width="0.762" layer="1"/>
 <wire x1="23.622" y1="-1.033" x2="25.2551" y2="-1.033" width="0.762" layer="1"/>
 <wire x1="25.5651" y1="-0.723" x2="25.781" y2="-0.723" width="0.762" layer="1"/>
@@ -4874,9 +4874,9 @@ design rules under a new name.</description>
 <wire x1="24.51391875" y1="-2.41808125" x2="25.027" y2="-1.905" width="0.2032" layer="1"/>
 </signal>
 <signal name="N$2">
-<contactref element="R19" pad="1"/>
-<contactref element="R20" pad="2"/>
-<contactref element="IC2" pad="3"/>
+<contactref element="R13" pad="1"/>
+<contactref element="R14" pad="2"/>
+<contactref element="IC5" pad="3"/>
 <wire x1="19.169" y1="-1.905" x2="19.677" y2="-1.905" width="0.2032" layer="1"/>
 <wire x1="19.677" y1="-1.905" x2="20.193" y2="-1.389" width="0.2032" layer="1"/>
 <wire x1="17.362" y1="0.527" x2="17.971821875" y2="0.527" width="0.2032" layer="1"/>
@@ -4888,9 +4888,9 @@ design rules under a new name.</description>
 <wire x1="19.319240625" y1="0.03048125" x2="19.555459375" y2="-0.2057375" width="0.2032" layer="1"/>
 </signal>
 <signal name="N$1">
-<contactref element="R6" pad="1"/>
-<contactref element="R9" pad="2"/>
-<contactref element="IC4" pad="3"/>
+<contactref element="R15" pad="1"/>
+<contactref element="R16" pad="2"/>
+<contactref element="IC6" pad="3"/>
 <wire x1="26.027" y1="-1.905" x2="27.178" y2="-1.905" width="0.2032" layer="1"/>
 <wire x1="27.178" y1="-1.905" x2="27.178" y2="-1.389" width="0.2032" layer="1"/>
 <wire x1="27.178" y1="-1.389" x2="26.53538125" y2="-0.74638125" width="0.2032" layer="1"/>
@@ -4901,10 +4901,10 @@ design rules under a new name.</description>
 <wire x1="25.283159375" y1="0.180340625" x2="24.9365" y2="0.527" width="0.2032" layer="1"/>
 </signal>
 <signal name="1.25V">
-<contactref element="C36" pad="1"/>
-<contactref element="R19" pad="2"/>
-<contactref element="IC2" pad="8"/>
-<contactref element="TP2" pad="TP"/>
+<contactref element="C47" pad="1"/>
+<contactref element="R13" pad="2"/>
+<contactref element="IC5" pad="8"/>
+<contactref element="TP3" pad="TP"/>
 <wire x1="16.637" y1="-2.413" x2="16.637" y2="-1.033" width="0.762" layer="1"/>
 <wire x1="16.637" y1="-1.033" x2="18.26248125" y2="-1.033" width="0.762" layer="1"/>
 <wire x1="18.57248125" y1="-0.723" x2="18.26248125" y2="-1.033" width="0.762" layer="1"/>
@@ -4914,9 +4914,9 @@ design rules under a new name.</description>
 <wire x1="18.15845625" y1="-1.905" x2="18.169" y2="-1.905" width="0.2032" layer="1"/>
 </signal>
 <signal name="SW">
-<contactref element="L1" pad="2"/>
-<contactref element="IC5" pad="B1"/>
-<contactref element="IC5" pad="B2"/>
+<contactref element="L4" pad="2"/>
+<contactref element="IC7" pad="B1"/>
+<contactref element="IC7" pad="B2"/>
 <wire x1="3.81" y1="-0.508" x2="3.81" y2="-0.908" width="0.3048" layer="1"/>
 <wire x1="3.81" y1="-0.908" x2="3.81" y2="-1.397" width="0.3048" layer="1"/>
 <via x="3.81" y="-1.397" extent="1-16" drill="0.254" diameter="0.508"/>

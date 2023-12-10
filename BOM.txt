@@ -1,0 +1,87 @@
+Partlist
+
+Exported from cafereg2.sch at 12/10/2023 4:18 PM
+
+EAGLE Version 9.6.1 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                Device                   Package                 Library        Sheet
+
+C1       22uF                 C-USC0603                C0603                   resistor       1
+C2       22uF                 C-USC0603                C0603                   resistor       1
+C3       22uF                 C-USC0603                C0603                   resistor       1
+C4       0.1uF                C-USC0402                C0402                   resistor       1
+C5       1uF                  C-USC0402                C0402                   resistor       1
+C6       2.2uF                C-USC0402                C0402                   resistor       1
+C7       0.1uF                C-USC0402                C0402                   resistor       1
+C8       0.1uF                C-USC0402                C0402                   resistor       1
+C9       22uF                 C-USC0603                C0603                   resistor       1
+C10      22uF                 C-USC0603                C0603                   resistor       1
+C11      22uF                 C-USC0603                C0603                   resistor       1
+C12      22uF                 C-USC0603                C0603                   resistor       1
+C13      22uF                 C-USC0603                C0603                   resistor       1
+C14      22uF                 C-USC0603                C0603                   resistor       1
+C15      22uF                 C-USC0603                C0603                   resistor       1
+C16      0.1uF                C-USC0402                C0402                   resistor       1
+C17      F930J107KBA          F930J107KBA              CAPPM3528X210N          SamacSys_Parts 1
+C18      F930J107KBA          F930J107KBA              CAPPM3528X210N          SamacSys_Parts 1
+C19      F930J107KBA          F930J107KBA              CAPPM3528X210N          SamacSys_Parts 1
+C20      22uF                 C-USC0603                C0603                   resistor       2
+C21      22uF                 C-USC0603                C0603                   resistor       2
+C22      22uF                 C-USC0603                C0603                   resistor       2
+C23      0.1uF                C-USC0402                C0402                   resistor       2
+C24      1uF                  C-USC0402                C0402                   resistor       2
+C25      2.2uF                C-USC0402                C0402                   resistor       2
+C26      0.1uF                C-USC0402                C0402                   resistor       2
+C27      0.1uF                C-USC0402                C0402                   resistor       2
+C28      22uF                 C-USC0603                C0603                   resistor       2
+C29      22uF                 C-USC0603                C0603                   resistor       2
+C30      22uF                 C-USC0603                C0603                   resistor       2
+C31      22uF                 C-USC0603                C0603                   resistor       2
+C32      22uF                 C-USC0603                C0603                   resistor       2
+C33      22uF                 C-USC0603                C0603                   resistor       2
+C34      22uF                 C-USC0603                C0603                   resistor       2
+C35      0.1uF                C-USC0402                C0402                   resistor       2
+C36      F930J107KBA          F930J107KBA              CAPPM3528X210N          SamacSys_Parts 2
+C37      F930J107KBA          F930J107KBA              CAPPM3528X210N          SamacSys_Parts 2
+C38      F930J107KBA          F930J107KBA              CAPPM3528X210N          SamacSys_Parts 2
+C39      22uF                 C-USC0603                C0603                   resistor       3
+C40      22uF                 C-USC0603                C0603                   resistor       3
+C41      22uF                 C-USC0603                C0603                   resistor       3
+C42      22uF                 C-USC0603                C0603                   resistor       4
+C43      22uF                 C-USC0603                C0603                   resistor       4
+C44      22uF                 C-USC0603                C0603                   resistor       4
+C45      22uF                 C-USC0603                C0603                   resistor       5
+C46      22uF                 C-USC0603                C0603                   resistor       5
+C47      22uF                 C-USC0603                C0603                   resistor       5
+C48      22uF                 C-USC0603                C0603                   resistor       5
+C49      22uF                 C-USC0603                C0603                   resistor       6
+C50      22uF                 C-USC0603                C0603                   resistor       6
+IC1      SiC431CED-T1-GE3     SiC431CED-T1-GE3         SiC431CED-T1-GE3        personal       1
+IC2      SiC431CED-T1-GE3     SiC431CED-T1-GE3         SiC431CED-T1-GE3        personal       2
+IC3      TPS63810YFFR         TPS63810YFFR             BGA15C40P3X5_134X226X62 SamacSys_Parts 3
+IC4      MUN3CAD03-SE         MUN3CAD03-SE             MUN3CAD03SE             SamacSys_Parts 4
+IC5      MUN3CAD01-SB         MUN3CAD01-SB             MUN3CAD01SB             SamacSys_Parts 5
+IC6      MUN3CAD01-SB         MUN3CAD01-SB             MUN3CAD01SB             SamacSys_Parts 5
+IC7      FAN48610BUC50X       FAN48610BUC50X           BGA9C40P3X3_122X122X62  SamacSys_Parts 6
+L1       MPXV1D0840L1R0       MPXV1D0840L1R0           INDPM8680X400N          SamacSys_Parts 1
+L2       MPXV1D0840L1R0       MPXV1D0840L1R0           INDPM8680X400N          SamacSys_Parts 2
+L3       TFM201208BLE-R47MTCF L_CHIP-0805(2012-METRIC) INDC2009X120            Inductor       3
+L4       1286AS-H-R47M=P2     1286AS-H-R47M=P2         1286ASH1R0MP2           SamacSys_Parts 6
+R1       100k                 R-US_R0402               R0402                   resistor       1
+R2       510k                 R-US_R0402               R0402                   resistor       1
+R3       510k                 R-US_R0402               R0402                   resistor       1
+R4       6.67k                R-US_R0402               R0402                   resistor       1
+R5       10K                  R-US_R0402               R0402                   resistor       1
+R6       100k                 R-US_R0402               R0402                   resistor       2
+R7       510k                 R-US_R0402               R0402                   resistor       2
+R8       510k                 R-US_R0402               R0402                   resistor       2
+R9       11k                  R-US_R0402               R0402                   resistor       2
+R10      12k                  R-US_R0402               R0402                   resistor       2
+R11      200k                 R-US_R0402               R0402                   resistor       4
+R12      133k                 R-US_R0402               R0402                   resistor       4
+R13      200k                 R-US_R0402               R0402                   resistor       5
+R14      187k                 R-US_R0402               R0402                   resistor       5
+R15      187k                 R-US_R0402               R0402                   resistor       5
+R16      200k                 R-US_R0402               R0402                   resistor       5
