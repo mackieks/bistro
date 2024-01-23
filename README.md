@@ -1,5 +1,5 @@
 # bistro
-Wii U regulator board. Runs a Wii U motherboard (no disc drive) from 1S lithium-ion. Licensed under TAPR OHL. Have fun!
+Wii U regulator board. Runs a Wii U motherboard (no disc drive) from 1S lithium-ion. Licensed under Solderpad Hardware License v2.1. Have fun!
 
 - x2 SiC431C 24A buck regulators for 1v and 1.15v (CPU + GPU)
 - x2 MUN3CAD01-SB 1A bucks for 1.1V and 1.25V (for DRH)
